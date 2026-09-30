@@ -32,21 +32,20 @@ http://localhost:8080/movimentacoes
 ![valor](docs/teste_valor_0.jpg)
 
 **2 - Possuir descrição**
-![descricao](descricao.jpg)
+![descricao](docs/descricao.jpg)
 
 **3 - Possuir data**
-![data](teste_sem_data.jpg)
+![data](docs/teste_sem_data.jpg)
 
 **4/5 - Possuir tipo/RECEITA ou DESPESA**
-![tipo](teste_sem_tipo.jpg)
+![tipo](docs/teste_sem_tipo.jpg)
 
 **6 - Calculo do saldo mensal**
 1. Cadastro da receita mensal
-![receita](cadastro_receita.jpg)
+![receita](docs/cadastro_receita.jpg)
 2. Calculo
-![calculo](calculo_saldo_mensal.jpg)
+![calculo](docs/calculo_saldo_mensal.jpg)
 
 # FIM 😎
-
 
 
